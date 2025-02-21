@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105572171467",
+    "project_id": "log-in-application-afd60",
+    "storage_bucket": "log-in-application-afd60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105572171467:android:d6f656ce5707dcf3c8254e",
+        "android_client_info": {
+          "package_name": "com.example.log_inpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSQNMapb9MlYs80DAy-m16VC9FaPVwJeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
